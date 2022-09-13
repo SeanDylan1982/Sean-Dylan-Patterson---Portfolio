@@ -11,24 +11,24 @@ View it Live: https://www.seanp.tk
 
 ![image](https://user-images.githubusercontent.com/74496368/189872083-40fcb603-b59d-4bc7-92c3-54e4b94e4d9b.png)
 
-![image](https://user-images.githubusercontent.com/74496368/189856232-3a3f42a4-1b72-4e1f-afd4-726a2f93b419.png)
+![image](https://user-images.githubusercontent.com/74496368/189872273-abc3dd32-8c50-47c2-b42c-e3f9c8215286.png)
 
-![image](https://user-images.githubusercontent.com/74496368/189856310-8a7eb5df-1283-4923-81ea-0c114e078e5e.png)
+![image](https://user-images.githubusercontent.com/74496368/189872407-9bb77657-4ee0-45dd-8a74-863f12558ab3.png)
 
-![image](https://user-images.githubusercontent.com/74496368/189856392-eb326c47-b77d-4f03-b6c9-41faaec9fb9d.png)
+![image](https://user-images.githubusercontent.com/74496368/189872541-ee648548-eb9a-4927-b6d1-690f615fd8de.png)
 
-![image](https://user-images.githubusercontent.com/74496368/189856459-4392bfd1-1e5f-48d5-baa9-f4b367a36a64.png)
+![image](https://user-images.githubusercontent.com/74496368/189872625-ecd932cc-1722-42b6-92c8-52e9b5d6adf7.png)
 
 Also in Light Mode
 
-![image](https://user-images.githubusercontent.com/74496368/189869827-9c2156e8-f731-4710-8d1e-51d36cbc2708.png)
+![image](https://user-images.githubusercontent.com/74496368/189872866-d0a9c220-d535-48a6-af4b-99401b4200ef.png)
 
-![image](https://user-images.githubusercontent.com/74496368/189869937-c3321e33-259f-41e1-b1e7-c322d476da61.png)
+![image](https://user-images.githubusercontent.com/74496368/189872970-ac874483-c2f8-4d07-bbf6-2bf3e6838c90.png)
 
-![image](https://user-images.githubusercontent.com/74496368/189870047-c4bd1e22-f7aa-4eba-ac98-f27c566834e7.png)
+![image](https://user-images.githubusercontent.com/74496368/189873059-9a3a53aa-94cb-43b6-a3f0-fc78a5eba1a4.png)
 
-![image](https://user-images.githubusercontent.com/74496368/189870185-26a2853d-2df5-4a01-8835-33734f3cd8e7.png)
+![image](https://user-images.githubusercontent.com/74496368/189873200-8e9c7065-03ba-4060-a14a-460c3f6000dd.png)
 
-![image](https://user-images.githubusercontent.com/74496368/189870315-08b2233c-35c5-404a-87fa-d391715b0cb9.png)
+![image](https://user-images.githubusercontent.com/74496368/189873314-92544129-a2d5-4e4b-8e47-b581d256520f.png)
 
-![image](https://user-images.githubusercontent.com/74496368/189870410-2ba669fb-9f5e-4d06-960d-c569eb38fb58.png)
+![image](https://user-images.githubusercontent.com/74496368/189873385-06fcc9ef-04e2-4335-969a-6f1fab5ce44f.png)
