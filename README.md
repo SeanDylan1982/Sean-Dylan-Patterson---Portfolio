@@ -1,8 +1,9 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/95f58bd1-48b5-4372-9cff-34a38246e799/deploy-status)](https://app.netlify.com/sites/seanp/deploys)
 
 # Sean Dylan Patterson
-# Responsive Dynamic Portfolio
-# Using HTML, CSS, Sass and JavaScript
+Responsive Dynamic Portfolio
+
+Using HTML, CSS, Sass and JavaScript
 
 View it Live: https://www.seanp.tk
 
