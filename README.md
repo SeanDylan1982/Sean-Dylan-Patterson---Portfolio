@@ -9,7 +9,7 @@ View it Live: https://www.seanp.tk
 
 ![image](https://user-images.githubusercontent.com/74496368/189855866-e6168fd9-65ea-473f-a838-b898e444a77a.png)
 
-![image](https://user-images.githubusercontent.com/74496368/189872083-40fcb603-b59d-4bc7-92c3-54e4b94e4d9b.png)
+![image](https://user-images.githubusercontent.com/74496368/189873610-9653c9b5-5698-44d8-993d-ef8ab640fbf1.png)
 
 ![image](https://user-images.githubusercontent.com/74496368/189872273-abc3dd32-8c50-47c2-b42c-e3f9c8215286.png)
 
@@ -23,7 +23,7 @@ Also in Light Mode
 
 ![image](https://user-images.githubusercontent.com/74496368/189872866-d0a9c220-d535-48a6-af4b-99401b4200ef.png)
 
-![image](https://user-images.githubusercontent.com/74496368/189872970-ac874483-c2f8-4d07-bbf6-2bf3e6838c90.png)
+![image](https://user-images.githubusercontent.com/74496368/189873710-25f888d9-19bb-48bb-9dc0-86989cf4ab31.png)
 
 ![image](https://user-images.githubusercontent.com/74496368/189873059-9a3a53aa-94cb-43b6-a3f0-fc78a5eba1a4.png)
 
