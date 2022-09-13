@@ -9,7 +9,7 @@ View it Live: https://www.seanp.tk
 
 ![image](https://user-images.githubusercontent.com/74496368/189855866-e6168fd9-65ea-473f-a838-b898e444a77a.png)
 
-![image](https://user-images.githubusercontent.com/74496368/189856138-22b79d4e-d59c-40fb-b693-44cd7501cc96.png)
+![image](https://user-images.githubusercontent.com/74496368/189872083-40fcb603-b59d-4bc7-92c3-54e4b94e4d9b.png)
 
 ![image](https://user-images.githubusercontent.com/74496368/189856232-3a3f42a4-1b72-4e1f-afd4-726a2f93b419.png)
 
