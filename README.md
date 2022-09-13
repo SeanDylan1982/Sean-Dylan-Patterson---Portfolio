@@ -3,7 +3,7 @@ My Responsive Dynamic Portfolio
 
 Using HTML, CSS, Sass and JavaScript
 
-View it Live: seanp.tk
+View it Live: https://www.seanp.tk
 
 ![image](https://user-images.githubusercontent.com/74496368/189855866-e6168fd9-65ea-473f-a838-b898e444a77a.png)
 
