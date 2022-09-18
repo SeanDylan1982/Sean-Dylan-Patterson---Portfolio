@@ -544,23 +544,21 @@
                             </div>
                         </div>
                         <div class="right-contact">
-                            <form name="contact" method="POST" data-netlify="true" class="contact-form">
+                            <form name="contact-form" method="POST" data-netlify="true" class="contact-form" id="contact-form" >
                                 <div class="input-control input-control-2">
-                                    <input type="text" required placeholder="Please enter your name">
-                                    <input type="email" required placeholder="Please enter your email">
+                                    <input type="text" required placeholder="Please enter your name" name="name">
+                                    <input type="email" required placeholder="Please enter your email" name="email">
                                 </div>
                                 <div class="input-control">
-                                    <input type="text" required placeholder="Please enter a subject">
+                                    <input type="text" required placeholder="Please enter a subject" name="subject">
                                 </div>
                                 <div class="input-control">
-                                    <textarea name="" id="" cols="15" rows="8" placeholder="Please enter your message here"></textarea>
+                                    <textarea name="message" id="message" cols="15" rows="8" placeholder="Please enter your message here" required></textarea>
                                 </div>
                                 <div class="submit-btn">
-                                    <a href="" target="_blank" class="main-btn">
-                                        <input type="submit" value="Click here to send" />
-                                        <span class="btn-text">Send Your Message</span>
-                                        <span class="btn-icon"><i class="fas fa-paper-plane"></i></span>
-                                    </a>
+                                    <button type="submit" value="Click here to send" name="button" class="submit-btn" />
+                                    <span class="btn-text">Send Your Message</span>
+                                    <span class="btn-icon"><i class="fas fa-paper-plane"></i></span>
                                 </div>
                             </form>
                         </div>
