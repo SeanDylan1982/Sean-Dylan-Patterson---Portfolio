@@ -1,4 +1,6 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/95f58bd1-48b5-4372-9cff-34a38246e799/deploy-status)](https://app.netlify.com/sites/seanp/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e15170b3-d3b4-4cbd-9c64-9f63e258995b/deploy-status)](https://app.netlify.com/sites/seandylanpatterson-portfolio/deploys)
+
+https://seandylanpatterson-portfolio.netlify.app/
 
 # Sean Dylan Patterson
 Responsive Dynamic Portfolio
